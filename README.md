@@ -46,7 +46,7 @@ The **Inference Page** allows users to upload images and get real-time predictio
 The data used to train the models for this application was sourced from [here](https://www.kaggle.com/datasets/alexteboul/english-premier-league-logo-detection-20k-images?utm_source=chatgpt.com). This dataset includes a diverse collection of images categorized by team, providing the necessary information for accurate model training and evaluation.
 
 ## Model Files
-Due to their large size, the pre-trained model files have not been included in this repository. However, you can easily generate your own models by utilizing the provided training scripts and architecture definitions. The code contains all the necessary components to recreate the models detailed in this project.****
+Due to their large size, the pre-trained model files have not been included in this repository. However, you can easily generate your own models by utilizing the provided training scripts and architecture definitions. The code contains all the necessary components to recreate the models detailed in this project.
 
 
 ## License

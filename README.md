@@ -13,7 +13,7 @@ The Premier League Team Identifier is a web application built using Streamlit th
 
 * **Model Selection:** Choose from various pre-trained models (e.g., ResNet, MobileNet, VGG16, InceptionV3, Xception, EfficientNet) or custom models for classification.
 
-* **Image Upload:** Easily upload images in formats such as JPG, PNG, JPEG, and WEBP.
+* **Image Upload:** Easily upload images in formats such as JPG, JPEG, and WEBP.
 
 * **Real-Time Predictions:** Get instant predictions on the uploaded images with visual feedback.
 

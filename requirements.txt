@@ -1,0 +1,17 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+pathlib
+Pillow
+cv2  # OpenCV for image processing
+
+# Machine Learning & Deep Learning
+tensorflow
+keras
+scikit-learn
+autokeras
+netron  # For model visualization
+
+# Pretrained Models
+opencv-python-headless

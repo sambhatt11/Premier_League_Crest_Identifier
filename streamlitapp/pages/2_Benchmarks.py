@@ -13,7 +13,7 @@ def encode_image(image_path):
 # Set the page configuration as the very first command
 st.set_page_config(page_title="Deep Learning App", layout="wide")
 # Encode the image to base64
-background_image_base64 = encode_image("background.jpg")  # Replace with your image path
+background_image_base64 = encode_image("streamlitapp/background.jpg")  # Replace with your image path
 
 # Create the background image CSS style with the base64-encoded string
 background_image = f"url(data:image/jpeg;base64,{background_image_base64})"

@@ -4,7 +4,7 @@ pandas
 matplotlib
 pathlib
 Pillow
-cv2  # OpenCV for image processing
+opencv-pyhton  # OpenCV for image processing
 
 # Machine Learning & Deep Learning
 tensorflow

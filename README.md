@@ -2,6 +2,13 @@
 
 The Premier League Team Identifier is a web application built using Streamlit that allows users to upload images of Premier League(Footall) team logos and jerseys. The application utilizes advanced machine learning models to identify and classify the uploaded images into their respective teams. This project aims to provide an interactive tool for sports enthusiasts, researchers, and developers interested in image classification and sports analytics.
 
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Siddhant-13/PremierLeague-Team-Identifier.git
+   cd PremierLeague-Team-Identifier
+
 ## Features
 
 * **Model Selection:** Choose from various pre-trained models (e.g., ResNet, MobileNet, VGG16, InceptionV3, Xception, EfficientNet) or custom models for classification.
@@ -34,6 +41,13 @@ This page displays the architecture diagrams for each model implemented in the a
 ### 4. Inference Page
 ![Inference Page](assets/inference.png "Inference Page")
 The **Inference Page** allows users to upload images and get real-time predictions based on the selected model. After uploading an image, users can see the predicted class.
+
+## Data
+The data used to train the models for this application was sourced from [here](https://www.kaggle.com/datasets/alexteboul/english-premier-league-logo-detection-20k-images?utm_source=chatgpt.com). This dataset includes a diverse collection of images categorized by team, providing the necessary information for accurate model training and evaluation.
+
+## Model Files
+Due to their large size, the pre-trained model files have not been included in this repository. However, you can easily generate your own models by utilizing the provided training scripts and architecture definitions. The code contains all the necessary components to recreate the models detailed in this project.****
+
 
 ## License
 

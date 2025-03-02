@@ -6,8 +6,8 @@ The Premier League Team Identifier is a web application built using Streamlit th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Siddhant-13/PremierLeague-Team-Identifier.git
-   cd PremierLeague-Team-Identifier
+   git clone https://github.com/sambhatt11/Premier_League_Crest_Identifier
+   cd Premier_League_Crest_Identifier
 
 ## Features
 
